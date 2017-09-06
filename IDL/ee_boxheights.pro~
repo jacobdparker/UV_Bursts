@@ -1,0 +1,22 @@
+;FUNCTION: ee_boxheights
+;PURPOSE: convert data set from pixels to real units
+;PARAMETERS:
+;VARIABLES:
+;RETURNS:
+;AUTHOR(S): A.E. Bartz 6/20/17
+
+function ee_boxheights, y0, y1, fitshead
+
+  restore, fitshead
+  STOP
+;Compute actual heights for y0
+  
+  
+;Compute actual heights for y1
+
+
+;Compute differences, stored in
+
+  return,
+
+end

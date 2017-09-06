@@ -1,0 +1,38 @@
+Quick notes on using L2 data.
+
+Slit jaw:
+
+IDL> read_iris_l2, sjifile, index, data
+
+Spectra:
+
+IDL> read_iris_l2, rastfile, index, data, WAVE= 'Si IV'
+
+
+Handy structure tags:
+
+   NAXIS1          LONG               289
+   NAXIS2          LONG              1093
+   NAXIS3          LONG              2000
+   CDELT1          DOUBLE         0.025440000
+   CDELT2          DOUBLE          0.16635000
+   CDELT3          DOUBLE           0.0000000
+   CRPIX1          DOUBLE           1.0000000
+   CRPIX2          DOUBLE           547.00000
+   CRPIX3          DOUBLE           1000.0000
+   CRVAL1          DOUBLE           1398.6500
+   CRVAL2          DOUBLE           259.66300
+   CRVAL3          DOUBLE           187.39500
+   CTYPE1          STRING    'WAVE'
+   CTYPE2          STRING    'HPLT-TAN'
+   CTYPE3          STRING    'HPLN-TAN'                      
+   CUNIT1          STRING    'Angstrom'
+   CUNIT2          STRING    'arcsec'
+   CUNIT3          STRING    'arcsec'
+   WAVELNTH        DOUBLE           1402.7700
+   WAVENAME        STRING    'Si IV 1403'
+   WAVEMIN         DOUBLE           1398.6500
+   WAVEMAX         DOUBLE           1405.9800
+
+
+NOTES to commit
