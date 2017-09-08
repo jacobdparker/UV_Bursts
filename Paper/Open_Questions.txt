@@ -1,0 +1,19 @@
+OPEN QUESTIONS IN SOLAR UV BURSTS/QUESTIONS I HAVE
+
+- Do our observed bursts show signatures in coronal emission?
+     • What kinds of bursts do?
+
+- Do UV bursts only occur around sunspots/active regions? What is their incidence on the quiet sun?
+     • We started answering this with the on-disk plot but it could be useful to make a plot over time and label which events are where/what size they are in greater detail
+
+- Partially answered (Jie Hong et al 2016): Does absorption or downflow cause large doppler shifts in the spectra during UV bursts?
+     • Only done on a very small sample of events (in this paper, just during a flare)
+
+- Partially addressed (Liemi Yan et al 2015): Are the central absorption lines self absorption or something else?
+     • Analysis is only performed on one 6-minute long event in this paper
+
+- What are the absorption lines that we see in the IRIS slit spectra above Si IV self-absorption and Ni II in some of the wider/more shifted events?
+
+- From Liemi Yan et al 2015:
+
+The seemingly common physical cause of quite different phenomena, e.g., explosive events (e.g., Innes et al. 1997), Ellerman-bombs and related features (Peter et al. 2014) and the event we report here, gives rise to an interesting question: What is the real difference between these events. Could it be that the magnetic changes underlying these phenomena are similar, and that only the location of the energy deposition determines the different observational consequences? Extended studies incorporating IRIS and other instruments might bring us closer to the answer of this intriguing question.
